@@ -1,0 +1,27 @@
+origin	https://github.com/sloth-19/experiment--log.git (fetch)
+origin	https://github.com/sloth-19/experiment--log.git (push)
+commit 63e6ce0b897645cf79226361ea273b0ca54df8e8
+Author: Sid <sid.g@email.com>
+Date:   Tue Jan 20 12:58:17 2026 -0800
+
+    added the modified README from cloud to local git commit?
+
+commit 382ac76f6640e78cc696b7ef97f8738e6178746c
+Author: sloth-19 <siddharthagupta0519@gmail.com>
+Date:   Tue Jan 20 12:55:33 2026 -0800
+
+    Update README.md
+    
+    First change on the website (will check from the terminal now)
+
+commit 30d445e6e7311df9c8321ce7efce5bdd78d16088
+Author: Sid <sid.g@email.com>
+Date:   Tue Jan 20 12:48:54 2026 -0800
+
+    Added first log entry
+
+commit ad8e6d97543765e4edfdc752232c7434adc11f51
+Author: sloth-19 <siddharthagupta0519@gmail.com>
+Date:   Tue Jan 20 12:45:54 2026 -0800
+
+    Initial commit
